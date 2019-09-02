@@ -7,9 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPrayers.Android", "MyPray
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPrayers.iOS", "MyPrayers\MyPrayers.iOS\MyPrayers.iOS.csproj", "{00B67148-861F-4FAA-9FE7-2D408F017A18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPrayers.MobileAppService", "MyPrayers\MyPrayers.MobileAppService\MyPrayers.MobileAppService.csproj", "{D0756E1C-3475-4CCA-A84D-8103BAB50D3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyPrayers.MobileAppService", "MyPrayers\MyPrayers.MobileAppService\MyPrayers.MobileAppService.csproj", "{D0756E1C-3475-4CCA-A84D-8103BAB50D3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPrayers", "MyPrayers\MyPrayers\MyPrayers.csproj", "{73B0103D-1803-4704-BFF3-C3D342A97452}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyPrayers", "MyPrayers\MyPrayers\MyPrayers.csproj", "{73B0103D-1803-4704-BFF3-C3D342A97452}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{E1EC463E-D35F-4F8C-A4DA-A706FDD48F03}"
+	ProjectSection(SolutionItems) = preProject
+		About.txt = About.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
