@@ -9,10 +9,10 @@ using Android.App;
 [assembly: AssemblyTitle("MyPrayers.Android")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("E+E.SU")]
 [assembly: AssemblyProduct("MyPrayers.Android")]
-[assembly: AssemblyCopyright("Copyright ©  2014")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyTrademark("E+E.SU")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
 
@@ -26,8 +26,8 @@ using Android.App;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.01.05.0")]
+[assembly: AssemblyFileVersion("1.01.05.0")]
 
 // Add some common permissions, these can be removed if not needed
 [assembly: UsesPermission(Android.Manifest.Permission.Internet)]
